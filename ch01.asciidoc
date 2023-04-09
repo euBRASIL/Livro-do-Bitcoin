@@ -1,14 +1,15 @@
 [role="pagenumrestart"]
 [[ch01_intro_what_is_bitcoin]]
-== Introduction
+== Introdução
 
-=== What Is Bitcoin?
+=== O que é Bitcoin?
 
-((("bitcoin", "defined", id="GSdefine01")))Bitcoin is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the Bitcoin network. Bitcoin users communicate with each other using the Bitcoin protocol primarily via the internet, although other transport networks can also be used. The Bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+((("bitcoin", "defined", id="GSdefine01")))Bitcoin é uma coleção de conceitos e tecnologias que formam a base de um ecossistema de dinheiro digital. Unidades de moeda chamadas bitcoin são usadas para armazenar e transmitir valor entre os participantes da rede Bitcoin. Os usuários do Bitcoin se comunicam usando o protocolo Bitcoin principalmente pela Internet, embora outras redes de transporte também possam ser usadas. A pilha de protocolo Bitcoin, disponível como software de código aberto, pode ser executada em uma ampla gama de dispositivos de computação, incluindo laptops e smartphones, tornando a tecnologia facilmente acessível.
 
 [TIP]
 ====
-Notice how the unit of currency is called "bitcoin" with a small _b_, and the system is called "Bitcoin", with a capital _B_.
+BTC , 000 001 bit = 100 satoshis
+A unidade financeiro do Bitcoin é o bit ($), cada bit$ equivale a 100 satoshis que são representados pela 7 e 8 cada decimal depois da vírgula.
 ====
 
 Users can transfer bitcoin over the network to do just about anything that can be done with conventional currencies, including buying and selling goods, sending money to people or organizations, or extending credit. Bitcoin can be purchased, sold, and exchanged for other currencies at specialized currency exchanges. Bitcoin in a sense is the perfect form of money for the internet because it is fast, secure, and borderless.
